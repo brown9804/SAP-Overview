@@ -17,6 +17,10 @@ This repository contains the basic knowledge that I believe is required to work 
 
 ## Content 
 - Pre-Requesites:
-  1. 
+  1. Business Analysis 
+  2. Data Analytics 
+  3. Product Management 
+  4. REST APIs
+  5. RPA - Robotic Process Automation
 
 
