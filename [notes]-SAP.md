@@ -15,6 +15,7 @@ April, 2021
 [3] TRANSPORT EXPRESS - From https://answers.sap.com/questions/6847117/transport-express.html <br/>
 [4] Active Control - From https://www.basistechnologies.com/products/activecontrol/ <br/>
 [5] UAT AND SIT - From https://answers.sap.com/questions/5412262/uat-and-sit.html <br/>
+[6] Semi-Automatic Service Line Opener (LOP) - From https://support.sap.com/en/tools/connectivity-tools/line-opener.html <br/>
 
 ## Acronyms
 
@@ -22,7 +23,8 @@ April, 2021
 - `CBP` - Critical Business Process
 - `PTM` - Project Transport Manager
 - `UAT` - User Acceptance Testing 
-- `SIT` -  System Integration Testing
+- `SIT` -  System Integration Testing.
+- `LOP` - Line Opener Program
 
 ## Active Control 
 `DevOps Automation Technology, Engineered for SAP` <br/>
