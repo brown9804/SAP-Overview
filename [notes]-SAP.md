@@ -1,4 +1,5 @@
-# SAP - Systems Applications and Products in data processing
+<h1 align="center"> SAP - Systems Applications and Products in data processing </h1>
+
 ----------
 
 Costa Rica
@@ -25,8 +26,9 @@ April, 2021
 [13] ELS - From https://help.sap.com/saphelp_ewm700_ehp02/helpdata/en/ec/cacb53ad377114e10000000a174cb4/content.htm?no_cache=true#:~:text=Configuring%20Engineered%20Labor%20Standards%20(ELS)%20%2D%20SAP%20Documentation <br/>
 [14] GTP - From https://blog.purestorage.com/news-events/sap-global-technology-partnership/ <br/>
 [15] SID - From http://www.cvosoft.com/glosario-sap/sap/sid-674.html <br/>
+[16] SAP project - From https://www.linkedin.com/learning/transitioning-from-waterfall-to-agile-project-management-6/agile-paradigm-shift?u=2095204 <br/>
 
-## Acronyms
+<h2 align="center"> Acronyms </h2>
 
 - `TP or tp ` - The Transport Control Program: SAP program that admins use for performing and planning transports between systems and also in upgrades of the SAP systems`
 - `CBP` - Critical Business Process
@@ -43,7 +45,8 @@ April, 2021
 - `GTP` - Global Technical Process
 - `SID` - System Identifier or System Instances
 
-## Implementation Basic Steps 
+<h2 align="center"> Implementation Basic Steps  </h2>
+
 An SAP implementation has five basic steps:
 
 1. Project preparation
@@ -53,7 +56,8 @@ An SAP implementation has five basic steps:
 5. Go Live support
 
 
-## Protocols for Remote Connections 
+<h2 align="center"> Protocols for Remote Connections  </h2>
+
 |Protocol  | Definition |
 |---|---|
 | HTTP	| Hypertext Transfer Protocol | 
@@ -65,12 +69,19 @@ An SAP implementation has five basic steps:
 | SID	(SAP)  | System ID |
 | SNOW	 | Service Now Tool |
 
-## Active Control 
-`DevOps Automation Technology, Engineered for SAP` <br/>
-Similar functionality of Transport Express.Delivers a fundamentally new approach to change and release with automation that enables companies to adopt agile development, DevOps and Continuous Delivery. 
- 
+<h2 align="center"> Active Control   </h2>
 
-## Landscape Management  
+`DevOps Automation Technology, Engineered for SAP` <br/>
+Similar functionality of Transport Express.Delivers a fundamentally new approach to change and release with automation that enables companies to adopt agile development, DevOps and Continuous Delivery.
+
+
+<h2 align="center"> Dual Maintenance  </h2>
+
+ 
+<h2 align="center"> Application Management Security  </h2>
+
+
+<h2 align="center"> Landscape Management    </h2>
 A landscape is defined as an arrangement of SAP servers. Based on SAP configurations, customizations and combinations of SAP and third-party modules.
 
 ### Types 
@@ -149,6 +160,21 @@ Basic steps:
 - BAT
 - TCO
 - Prod
+
+<h2 align="center"> Requirements    </h2>
+
+The requirements most be defined. All the requirements are established so the project period is defined.
+
+<h2 align="center"> Design    </h2>
+
+The project's separated into several phases which are linear dependent on each other. Every stage or phase depends on the deliverables of the previous one and so on.
+
+<h2 align="center"> Build    </h2>
+
+<h2 align="center"> Test    </h2>
+
+<h2 align="center"> Deploy    </h2>
+
 
 
 
