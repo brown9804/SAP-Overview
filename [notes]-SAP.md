@@ -24,7 +24,7 @@ April, 2021
 [12] CI - From https://www.atlassian.com/continuous-delivery/continuous-integration <br/>
 [13] ELS - From https://help.sap.com/saphelp_ewm700_ehp02/helpdata/en/ec/cacb53ad377114e10000000a174cb4/content.htm?no_cache=true#:~:text=Configuring%20Engineered%20Labor%20Standards%20(ELS)%20%2D%20SAP%20Documentation <br/>
 [14] GTP - From https://blog.purestorage.com/news-events/sap-global-technology-partnership/ <br/>
-
+[15] SID - From http://www.cvosoft.com/glosario-sap/sap/sid-674.html <br/>
 
 ## Acronyms
 
@@ -40,8 +40,8 @@ April, 2021
 - `CAB` - Change Advisory Board
 - `CI` - Continuous Improvement or Continuous Integration (Related to Agile Methodology)
 - `ELS` - Engineered Labor Standards or Early Life Support 
--`GTP` - Global 
-
+- `GTP` - Global Technical Process
+- `SID` - System Identifier or System Instances
 
 ## Implementation Basic Steps 
 An SAP implementation has five basic steps:
@@ -142,6 +142,14 @@ Basic steps:
 5. Documenting the Defects found during UAT
 6. Resolving the issues/Bug Fixing
 7. Sign Off
+
+### Logical System Layer
+- DEV
+- SIT
+- BAT
+- TCO
+- Prod
+
 
 
 
