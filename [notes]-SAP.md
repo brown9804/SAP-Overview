@@ -20,7 +20,11 @@ April, 2021
 [8] Landscape types - From https://blogs.sap.com/2012/06/14/what-is-sap-landscape/#:~:text=SAP%20is%20divided%20into%20three,Golden%2C%20180%20%E2%80%93%20Unit%20Test. <br/>
 [9] SAP Modules - From https://www.simplilearn.com/sap-modules-sap-fi-sap-co-sap-sd-sap-hcm-and-more-rar111-article <br/>
 [10] SAP Tables - From https://blogs.sap.com/2013/07/20/sap-standard-tables/ <br/>
-[11] 
+[11] CAB SAP - From https://blogs.sap.com/2016/08/30/why-do-you-need-an-sap-change-advisory-board-cab-who-should-be-on-it-part-iii-of-iv/ <br/>
+[12] CI - From https://www.atlassian.com/continuous-delivery/continuous-integration <br/>
+[13] ELS - From https://help.sap.com/saphelp_ewm700_ehp02/helpdata/en/ec/cacb53ad377114e10000000a174cb4/content.htm?no_cache=true#:~:text=Configuring%20Engineered%20Labor%20Standards%20(ELS)%20%2D%20SAP%20Documentation <br/>
+[14] GTP - From https://blog.purestorage.com/news-events/sap-global-technology-partnership/ <br/>
+
 
 ## Acronyms
 
@@ -31,6 +35,35 @@ April, 2021
 - `SIT` -  System Integration Testing.
 - `LOP` - Line Opener Program
 - `SRU` - SAP Release Upgrade
+- `ERP` - Enterprise Resource Planning
+- `SO` - Service Operation
+- `CAB` - Change Advisory Board
+- `CI` - Continuous Improvement or Continuous Integration (Related to Agile Methodology)
+- `ELS` - Engineered Labor Standards or Early Life Support 
+-`GTP` - Global 
+
+
+## Implementation Basic Steps 
+An SAP implementation has five basic steps:
+
+1. Project preparation
+2. Business blueprint 
+3. Realization
+4. Final preparation
+5. Go Live support
+
+
+## Protocols for Remote Connections 
+|Protocol  | Definition |
+|---|---|
+| HTTP	| Hypertext Transfer Protocol | 
+| HTTPS | Hypertext Transfer Protocol Secure |
+| SSH	| Secure Shell |
+| WTS	| Windows Terminal Server |
+|ERP | 	Enterprise Resource Planning |
+|LOP	 | Line Opener Program |
+| SID	(SAP)  | System ID |
+| SNOW	 | Service Now Tool |
 
 ## Active Control 
 `DevOps Automation Technology, Engineered for SAP` <br/>
@@ -63,6 +96,26 @@ Each box is divided considering three characteristics:
 2. Process or Action 
 3. Environments 
 
+Following this convention:
+-`E` - Engineering <br/>
+-`D` - Development <br/>
+-`R` - Rollout <br/>
+-`A` - Acceptance <br/>
+-`C` - Deployment Rehearsal <br/>
+-`P` - Production <br/>
+-`Q` - Quality assurance <br/>
+
+### Environments
+- `E` - Sandbox <br/>
+- `D` - Development <br/>
+- `R` - SIT <br/>
+- `A` - UAT <br/>
+- `C` - Deployment Releasal systems <br/>
+- `P` - Production <br/>
+- `Q` - Fire-fighting systems <br/>
+
+And Lower Level SAP Release Update System (e.g. KLM).
+
 ### Tables 
 Standard tables:
 | Table Name  |  Acronym | 
@@ -80,17 +133,7 @@ Standard tables:
 | Cost Centre Accounting | CO*CS* |
 | Organizational Elements | T001*|
 
-
-## Implementation Basic Steps 
-An SAP implementation has five basic steps:
-
-1. Project preparation
-2. Business blueprint 
-3. Realization
-4. Final preparation
-5. Go Live support
-
-## UAT 
+### UAT 
 Basic steps:
 1. User Acceptance Test (UAT) Planning
 2. Designing UA Test Cases
@@ -99,5 +142,6 @@ Basic steps:
 5. Documenting the Defects found during UAT
 6. Resolving the issues/Bug Fixing
 7. Sign Off
+
 
 
