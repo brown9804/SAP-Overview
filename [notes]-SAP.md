@@ -19,7 +19,8 @@ April, 2021
 [7] SRU - From https://help.sap.com/doc/e2048712f0ab45e791e6d15ba5e20c68/2020/en-US/FSD_OP2020_latest.pdf <br/>
 [8] Landscape types - From https://blogs.sap.com/2012/06/14/what-is-sap-landscape/#:~:text=SAP%20is%20divided%20into%20three,Golden%2C%20180%20%E2%80%93%20Unit%20Test. <br/>
 [9] SAP Modules - From https://www.simplilearn.com/sap-modules-sap-fi-sap-co-sap-sd-sap-hcm-and-more-rar111-article <br/>
-[10] 
+[10] SAP Tables - From https://blogs.sap.com/2013/07/20/sap-standard-tables/ <br/>
+[11] 
 
 ## Acronyms
 
@@ -58,6 +59,26 @@ A landscape is defined as an arrangement of SAP servers. Based on SAP configurat
 
 ### Boxes 
 Each box is divided considering three characteristics:
+1. Region 
+2. Process or Action 
+3. Environments 
+
+### Tables 
+Standard tables:
+| Table Name  |  Acronym | 
+|---|---|
+| Customer   | KN*  |
+| Sales  | VB*,VA*,VK*  |
+| Shipping | VT*,VB*,VE*  |
+| Delivery | LI*  |
+| Material Master  | MA*, MB*, MK*, MS*, MV*  |
+| Billing  | VB*,VR*,VK*  |
+| Pricing  | KO*  |
+| Purchasing   | EK*,EI*  |
+| Vendor Master | LF* |
+| FI Tables | BS*   |
+| Cost Centre Accounting | CO*CS* |
+| Organizational Elements | T001*|
 
 
 ## Implementation Basic Steps 
