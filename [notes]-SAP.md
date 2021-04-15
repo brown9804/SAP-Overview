@@ -28,7 +28,8 @@ April, 2021
 [15] SID - From http://www.cvosoft.com/glosario-sap/sap/sid-674.html <br/>
 [16] SAP project - From https://www.linkedin.com/learning/transitioning-from-waterfall-to-agile-project-management-6/agile-paradigm-shift?u=2095204 <br/>
 [17] Agile Methodologies - From https://www.agilealliance.org/agile101/ <br/>
-[18] 
+[18] Dual Maintenance - From https://blogs.sap.com/2019/05/31/dual-maintenance-management/ <br/>
+[19] SAP Application Management Security - From https://symmetrycorp.com/blog/sap-security-basics-what-you-need-to-know/
 
 
 <h2 align="center"> Acronyms </h2>
@@ -51,7 +52,9 @@ April, 2021
 - `MDF` -  Market Development Funds
 - `OOP` - Object-Oriented-Programming
 - `TDD` - Test-Driven-Development
-
+- `MADF` - Modern Application Development Framework
+-`gCTS` - Git-enabled Change and Transport
+- `RFC` - Request for a Change
 
 <h2 align="center"> Implementation Basic Steps  </h2>
 
@@ -85,8 +88,40 @@ Similar functionality of Transport Express.Delivers a fundamentally new approach
 
 <h2 align="center"> Dual Maintenance  </h2>
 
+> The entire objective of dual maintenance is to keep the current 
+> and the upgraded system in sync with each other. Dual maintenance 
+> starts as soon as the upgraded system becomes available.
+> 
+> We mostly have two types of transports which qualify for dual maintenance:
+> - New Transports: These are the new transports that will be created once the 
+> system becomes available to the team for dual maintenance.
+> - Retro Transports: These are the existing transports that have 
+> been in Dev and QA system and never made to Production.
+> 
+> Assumptions:
+>  - DC1 – Existing ECC Dev System
+>  - DC2 – Upgraded ECC Dev System
+>
+> Prerequisites:
+> RFC Connection between upgraded(DC1) and non-upgraded system(DC2).
+> 
+> -- <cite> SAP Community  </cite>
+
+ 
+ 
  
 <h2 align="center"> Application Management Security  </h2>
+
+> SAP security is a balancing act that involves all the tools, 
+> processes, and controls set in place in order to restrict what 
+> users can access within an SAP landscape. This helps ensure that 
+> users only can access the functionality they need to do their job. 
+> They should be prevented from viewing or altering data they aren’t 
+> authorized to see. At the same time, the access controls need to be
+> seamless, so people don’t get locked out of their workflows and 
+> spend unproductive time getting back to work.
+> 
+> -- <cite> Symmetry  </cite>
 
 
 <h2 align="center"> Landscape Management    </h2>
@@ -195,11 +230,11 @@ Considering Agile Methodologies:
 And it's importante to consider the Object-Oriented-Programming and Test-Driven-Development.
 
 
-
 <h2 align="center"> Test    </h2>
 Try to test using automated processes. It will help to decrease the defects leaking past the application building phase.
 
 <h2 align="center"> Deploy    </h2>
+We need to watch the transports. The transport is the mobile for any changes that are recorded for technical deployment. Try to do CD/CD which means Continuous Delivery and Continuous Deployment.
 
 
 
