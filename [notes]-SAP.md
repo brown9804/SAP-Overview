@@ -135,6 +135,12 @@ A landscape is defined as an arrangement of SAP servers. Based on SAP configurat
 > – PRD may have something like a 200 Production. <br/>
 > -- <cite> Denis from SAP Community </cite>
  
+ ### Layer 
+ Three main layers:
+ - Development 
+ - QA (might have multiple instances)
+ - Production
+ -
  ### Modules 
 - SAP Financial Accounting (FI)
 - SAP Controlling (CO)
