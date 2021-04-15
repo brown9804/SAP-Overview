@@ -27,6 +27,9 @@ April, 2021
 [14] GTP - From https://blog.purestorage.com/news-events/sap-global-technology-partnership/ <br/>
 [15] SID - From http://www.cvosoft.com/glosario-sap/sap/sid-674.html <br/>
 [16] SAP project - From https://www.linkedin.com/learning/transitioning-from-waterfall-to-agile-project-management-6/agile-paradigm-shift?u=2095204 <br/>
+[17] Agile Methodologies - From https://www.agilealliance.org/agile101/ <br/>
+[18] 
+
 
 <h2 align="center"> Acronyms </h2>
 
@@ -44,6 +47,11 @@ April, 2021
 - `ELS` - Engineered Labor Standards or Early Life Support 
 - `GTP` - Global Technical Process
 - `SID` - System Identifier or System Instances
+- `NNIT` - Non-Negative Impact Testing
+- `MDF` -  Market Development Funds
+- `OOP` - Object-Oriented-Programming
+- `TDD` - Test-Driven-Development
+
 
 <h2 align="center"> Implementation Basic Steps  </h2>
 
@@ -171,7 +179,25 @@ The project's separated into several phases which are linear dependent on each o
 
 <h2 align="center"> Build    </h2>
 
+Considering Agile Methodologies:
+> Agile methodology is a type of project management process, 
+> mainly used for software development, where demands and solutions 
+> evolve through the collaborative effort of self-organizing and 
+> cross-functional teams and their customers.
+> 
+> The Agile methodology is a collection of principles that
+> value adaptability and flexibility. Agile  aims to provide better 
+> responsiveness to changing business needs and therefore focuses on 
+> enabling teams to deliver in workable increments.
+>  
+> -- <cite> Zenkit  </cite>
+
+And it's importante to consider the Object-Oriented-Programming and Test-Driven-Development.
+
+
+
 <h2 align="center"> Test    </h2>
+Try to test using automated processes. It will help to decrease the defects leaking past the application building phase.
 
 <h2 align="center"> Deploy    </h2>
 
