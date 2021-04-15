@@ -55,6 +55,8 @@ April, 2021
 - `MADF` - Modern Application Development Framework
 -`gCTS` - Git-enabled Change and Transport
 - `RFC` - Request for a Change
+- `LEM` - Local Enterprise Model
+
 
 <h2 align="center"> Implementation Basic Steps  </h2>
 
