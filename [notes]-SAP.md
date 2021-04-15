@@ -153,6 +153,7 @@ A landscape is defined as an arrangement of SAP servers. Based on SAP configurat
  1. Sandbox
  2. Training 
  3. Deployment
+ 4. Fire-fighting
  
  ### Modules 
 - SAP Financial Accounting (FI)
