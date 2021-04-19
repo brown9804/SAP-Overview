@@ -58,6 +58,8 @@ April, 2021
 - `LEM` - Local Enterprise Model
 - `BADI` - Bussiness Add-ins
 - `CDS` - Core Data Services 
+- `DCL` - Data Control Language
+
 
 
 <h2 align="center"> Implementation Basic Steps  </h2>
