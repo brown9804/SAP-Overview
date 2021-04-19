@@ -57,6 +57,8 @@ April, 2021
 - `RFC` - Request for a Change
 - `LEM` - Local Enterprise Model
 - `BADI` - Bussiness Add-ins
+- `CDS` - Core Data Services 
+
 
 <h2 align="center"> Implementation Basic Steps  </h2>
 
