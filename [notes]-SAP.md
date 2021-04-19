@@ -56,7 +56,7 @@ April, 2021
 -`gCTS` - Git-enabled Change and Transport
 - `RFC` - Request for a Change
 - `LEM` - Local Enterprise Model
-
+- `BADI` - Bussiness Add-ins
 
 <h2 align="center"> Implementation Basic Steps  </h2>
 
