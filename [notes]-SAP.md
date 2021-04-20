@@ -59,6 +59,10 @@ April, 2021
 - `BADI` - Bussiness Add-ins
 - `CDS` - Core Data Services 
 - `DCL` - Data Control Language
+- `ICM` - Integrated Change Management 
+- `TNC` - Transport Naming Convention 
+- `TSP` - Test System Protection 
+
 
 
 
