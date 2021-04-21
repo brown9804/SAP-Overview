@@ -271,8 +271,13 @@ We need to watch the transports. The transport is the mobile for any changes tha
 
 ![Google Images diagram for VDM ](https://images.contentstack.io/v3/assets/bltd28bcb63149827a2/blt5814251608278d07/5f34665b48d3b57cb974a25f/Architecture_with_frame.png?disposition=inline)
 
+<h2 align="center"> SAP Hana Architecture   </h2>
 
-<h2 align="center"> SDI Architecture    </h2>
+From PWC | India 
+![SAP Hana Architecture  ](https://github.com/brown9804/SAP_initial_path/blob/main/_docs/img/%5Bimg%5D_sap_hana_infractructure.png)
+
+
+<h3 align="center"> SDI Architecture    </h3>
 
 
 ![HANA SDI Architecture ](https://datacadamia.com/_media/db/hana/hana_sdi_architecture.png?cache=)
