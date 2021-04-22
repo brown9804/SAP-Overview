@@ -62,6 +62,7 @@ April, 2021
 - `ICM` - Integrated Change Management 
 - `TNC` - Transport Naming Convention 
 - `TSP` - Test System Protection 
+- `CMP` - Change Management Process 
 
 
 
@@ -240,7 +241,7 @@ The requirements most be defined. All the requirements are established so the pr
 
 <h2 align="center"> Design    </h2>
 
-The project's separated into several phases which are linear dependent on each other. Every stage or phase depends on the deliverables of the previous one and so on.
+The project's separated into several phases which are linear dependent on each other. Every stage or phase depends on the deliverables of the previous one and so on. It's acceptable a 2 % of bad namings since it's required to follow a TNC. And it's not right to have transports open for more than a hundred years.
 
 <h2 align="center"> Build    </h2>
 
@@ -261,10 +262,10 @@ And it's importante to consider the Object-Oriented-Programming and Test-Driven-
 
 
 <h2 align="center"> Test    </h2>
-Try to test using automated processes. It will help to decrease the defects leaking past the application building phase.
+Try to test using automated processes. It will help to decrease the defects leaking past the application building phase. Consider TSP.
 
 <h2 align="center"> Deploy    </h2>
-We need to watch the transports. The transport is the mobile for any changes that are recorded for technical deployment. Try to do CD/CD which means Continuous Delivery and Continuous Deployment.
+We need to watch the transports. The transport is the mobile for any changes that are recorded for technical deployment. Try to do CD/CD which means Continuous Delivery and Continuous Deployment. Consider CMP.
 
 <h2 align="center"> Virtual Data Model    </h2>
 
