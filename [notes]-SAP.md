@@ -265,7 +265,8 @@ And it's importante to consider the Object-Oriented-Programming and Test-Driven-
 Try to test using automated processes. It will help to decrease the defects leaking past the application building phase. Consider TSP.
 
 <h2 align="center"> Deploy    </h2>
-We need to watch the transports. The transport is the mobile for any changes that are recorded for technical deployment. Try to do CD/CD which means Continuous Delivery and Continuous Deployment. Consider CMP.
+
+We need to watch the transports. The transport (like pipeline: `a pipeline is the continuous and somewhat overlapped movement of instruction to the processor or in the arithmetic steps taken by the processor to perform an instruction` ) is the mobile for any changes that are recorded for technical deployment. Try to do CD/CD which means Continuous Delivery and Continuous Deployment. Consider CMP.
 
 <h2 align="center"> Virtual Data Model    </h2>
 
