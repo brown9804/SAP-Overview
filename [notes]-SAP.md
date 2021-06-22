@@ -13,7 +13,8 @@ April, 2021
 <h2 align="center"> Useful SAP transaction codes: ABAP, Data Dictionary, FI and CO </h2>
 From [20]
 
-[embed]https://github.com/brown9804/SAP_initial_path/blob/main/_docs/ref/transaction-codes-list.pdf[/embed]
+<embed src="/blob/main/_docs/ref/transaction-codes-list.pdf" type="application/pdf">
+
 
 <h2 align="center"> Acronyms </h2>
 
