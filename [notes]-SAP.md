@@ -184,7 +184,12 @@ Following this convention:
 
 And Lower Level SAP Release Update System (e.g. KLM).
 
-### Tables 
+### Tables
+
+From [21] 
+
+
+
 Standard tables:
 | Table Name  |  Acronym | 
 |---|---|
@@ -292,3 +297,4 @@ From PWC | India
 [18] Dual Maintenance - From https://blogs.sap.com/2019/05/31/dual-maintenance-management/ <br/>
 [19] SAP Application Management Security - From https://symmetrycorp.com/blog/sap-security-basics-what-you-need-to-know/ <br/>
 [20] Useful SAP commands - From https://www.system-overload.org/sap/transaction-codes-list.pdf <br/>
+[21] Tables List - From https://www.system-overload.org/sap/tables-list.pdf <br/>
