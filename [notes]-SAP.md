@@ -188,7 +188,9 @@ And Lower Level SAP Release Update System (e.g. KLM).
 
 From [21] 
 
+![SAP Tables - 0](https://github.com/brown9804/SAP_initial_path/blob/main/_docs/ref/tables-list-0.png)
 
+![SAP Tables - 1](https://github.com/brown9804/SAP_initial_path/blob/main/_docs/ref/tables-list-1.png)
 
 Standard tables:
 | Table Name  |  Acronym | 
