@@ -10,28 +10,6 @@ April, 2021
 
 ----------
 
-## References 
-[1] What is an SAP Implementation - From https://symmetrycorp.com/blog/expert-insight-sap-implementation-2/ <br/>
-[2] System Landscape & Architecture - From https://www.tutorialspoint.com/sap_basis/sap_basis_system_landscape_architecture.htm#:~:text=SAP%20system%20landscape%20is%20defined%20as%20an%20arrangement%20of%20SAP%20servers.&text=A%20system%20landscape%20consists%20of,time%20unlike%20the%20system%20landscape. <br/>
-[3] TRANSPORT EXPRESS - From https://answers.sap.com/questions/6847117/transport-express.html <br/>
-[4] Active Control - From https://www.basistechnologies.com/products/activecontrol/ <br/>
-[5] UAT AND SIT - From https://answers.sap.com/questions/5412262/uat-and-sit.html <br/>
-[6] Semi-Automatic Service Line Opener (LOP) - From https://support.sap.com/en/tools/connectivity-tools/line-opener.html <br/>
-[7] SRU - From https://help.sap.com/doc/e2048712f0ab45e791e6d15ba5e20c68/2020/en-US/FSD_OP2020_latest.pdf <br/>
-[8] Landscape types - From https://blogs.sap.com/2012/06/14/what-is-sap-landscape/#:~:text=SAP%20is%20divided%20into%20three,Golden%2C%20180%20%E2%80%93%20Unit%20Test. <br/>
-[9] SAP Modules - From https://www.simplilearn.com/sap-modules-sap-fi-sap-co-sap-sd-sap-hcm-and-more-rar111-article <br/>
-[10] SAP Tables - From https://blogs.sap.com/2013/07/20/sap-standard-tables/ <br/>
-[11] CAB SAP - From https://blogs.sap.com/2016/08/30/why-do-you-need-an-sap-change-advisory-board-cab-who-should-be-on-it-part-iii-of-iv/ <br/>
-[12] CI - From https://www.atlassian.com/continuous-delivery/continuous-integration <br/>
-[13] ELS - From https://help.sap.com/saphelp_ewm700_ehp02/helpdata/en/ec/cacb53ad377114e10000000a174cb4/content.htm?no_cache=true#:~:text=Configuring%20Engineered%20Labor%20Standards%20(ELS)%20%2D%20SAP%20Documentation <br/>
-[14] GTP - From https://blog.purestorage.com/news-events/sap-global-technology-partnership/ <br/>
-[15] SID - From http://www.cvosoft.com/glosario-sap/sap/sid-674.html <br/>
-[16] SAP project - From https://www.linkedin.com/learning/transitioning-from-waterfall-to-agile-project-management-6/agile-paradigm-shift?u=2095204 <br/>
-[17] Agile Methodologies - From https://www.agilealliance.org/agile101/ <br/>
-[18] Dual Maintenance - From https://blogs.sap.com/2019/05/31/dual-maintenance-management/ <br/>
-[19] SAP Application Management Security - From https://symmetrycorp.com/blog/sap-security-basics-what-you-need-to-know/
-
-
 <h2 align="center"> Acronyms </h2>
 
 - `TP or tp ` - The Transport Control Program: SAP program that admins use for performing and planning transports between systems and also in upgrades of the SAP systems`
@@ -288,4 +266,23 @@ From PWC | India
 
 
 
-
+## References 
+[1] What is an SAP Implementation - From https://symmetrycorp.com/blog/expert-insight-sap-implementation-2/ <br/>
+[2] System Landscape & Architecture - From https://www.tutorialspoint.com/sap_basis/sap_basis_system_landscape_architecture.htm#:~:text=SAP%20system%20landscape%20is%20defined%20as%20an%20arrangement%20of%20SAP%20servers.&text=A%20system%20landscape%20consists%20of,time%20unlike%20the%20system%20landscape. <br/>
+[3] TRANSPORT EXPRESS - From https://answers.sap.com/questions/6847117/transport-express.html <br/>
+[4] Active Control - From https://www.basistechnologies.com/products/activecontrol/ <br/>
+[5] UAT AND SIT - From https://answers.sap.com/questions/5412262/uat-and-sit.html <br/>
+[6] Semi-Automatic Service Line Opener (LOP) - From https://support.sap.com/en/tools/connectivity-tools/line-opener.html <br/>
+[7] SRU - From https://help.sap.com/doc/e2048712f0ab45e791e6d15ba5e20c68/2020/en-US/FSD_OP2020_latest.pdf <br/>
+[8] Landscape types - From https://blogs.sap.com/2012/06/14/what-is-sap-landscape/#:~:text=SAP%20is%20divided%20into%20three,Golden%2C%20180%20%E2%80%93%20Unit%20Test. <br/>
+[9] SAP Modules - From https://www.simplilearn.com/sap-modules-sap-fi-sap-co-sap-sd-sap-hcm-and-more-rar111-article <br/>
+[10] SAP Tables - From https://blogs.sap.com/2013/07/20/sap-standard-tables/ <br/>
+[11] CAB SAP - From https://blogs.sap.com/2016/08/30/why-do-you-need-an-sap-change-advisory-board-cab-who-should-be-on-it-part-iii-of-iv/ <br/>
+[12] CI - From https://www.atlassian.com/continuous-delivery/continuous-integration <br/>
+[13] ELS - From https://help.sap.com/saphelp_ewm700_ehp02/helpdata/en/ec/cacb53ad377114e10000000a174cb4/content.htm?no_cache=true#:~:text=Configuring%20Engineered%20Labor%20Standards%20(ELS)%20%2D%20SAP%20Documentation <br/>
+[14] GTP - From https://blog.purestorage.com/news-events/sap-global-technology-partnership/ <br/>
+[15] SID - From http://www.cvosoft.com/glosario-sap/sap/sid-674.html <br/>
+[16] SAP project - From https://www.linkedin.com/learning/transitioning-from-waterfall-to-agile-project-management-6/agile-paradigm-shift?u=2095204 <br/>
+[17] Agile Methodologies - From https://www.agilealliance.org/agile101/ <br/>
+[18] Dual Maintenance - From https://blogs.sap.com/2019/05/31/dual-maintenance-management/ <br/>
+[19] SAP Application Management Security - From https://symmetrycorp.com/blog/sap-security-basics-what-you-need-to-know/
