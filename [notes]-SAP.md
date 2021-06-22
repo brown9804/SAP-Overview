@@ -10,6 +10,11 @@ April, 2021
 
 ----------
 
+<h2 align="center"> Useful SAP transaction codes: ABAP, Data Dictionary, FI and CO </h2>
+From [20]
+
+[embed]https://github.com/brown9804/SAP_initial_path/blob/main/_docs/ref/transaction-codes-list.pdf[/embed]
+
 <h2 align="center"> Acronyms </h2>
 
 - `TP or tp ` - The Transport Control Program: SAP program that admins use for performing and planning transports between systems and also in upgrades of the SAP systems`
@@ -285,4 +290,5 @@ From PWC | India
 [16] SAP project - From https://www.linkedin.com/learning/transitioning-from-waterfall-to-agile-project-management-6/agile-paradigm-shift?u=2095204 <br/>
 [17] Agile Methodologies - From https://www.agilealliance.org/agile101/ <br/>
 [18] Dual Maintenance - From https://blogs.sap.com/2019/05/31/dual-maintenance-management/ <br/>
-[19] SAP Application Management Security - From https://symmetrycorp.com/blog/sap-security-basics-what-you-need-to-know/
+[19] SAP Application Management Security - From https://symmetrycorp.com/blog/sap-security-basics-what-you-need-to-know/ <br/>
+[20] Useful SAP commands - From https://www.system-overload.org/sap/transaction-codes-list.pdf <br/>
