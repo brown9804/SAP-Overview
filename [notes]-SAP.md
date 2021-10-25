@@ -164,7 +164,7 @@ Each box is divided considering three characteristics:
 2. Process or Action 
 3. Environments 
 
-Following this convention:
+Following this convention: <br/>
 -`E` - Engineering <br/>
 -`D` - Development <br/>
 -`R` - Rollout <br/>
