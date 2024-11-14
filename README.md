@@ -1,19 +1,24 @@
 # SAP Initial Path
-----------
 
-Costa Rica
+Costa Rica 
 
-Belinda Brown, belindabrownr04@gmail.com
+[![GitHub](https://img.shields.io/badge/--181717?logo=github&logoColor=ffffff)](https://github.com/)
+[brown9804](https://github.com/brown9804)
 
-July, 2020
+Last updated: 2020-07-14
 
-----------
+------------------------------------------
 
-This repository contains the basic knowledge that I believe is required to work within Systems Applications and Products in Data Processing
+<div align="center">
+  <h3 style="color: #4CAF50;">Total Visitors</h3>
+  <img src="https://profile-counter.glitch.me/brown9804/count.svg" alt="Visitor Count" style="border: 2px solid #4CAF50; border-radius: 5px; padding: 5px;"/>
+</div>
+
+> This repository contains the basic knowledge that I believe is required to work within Systems Applications and Products in Data Processing
 
 ## References 
-[1] SAP ERP Essential Training (2018) - From https://www.linkedin.com/learning/sap-erp-essential-training-2018/understanding-sap-erp?u=2095204 <br/>
-[2] SAP S/4 HANA Financial Accounting Overview - From https://www.linkedin.com/learning/sap-s-4-hana-financial-accounting-overview/scenarios-covered-2?u=2095204
+- [SAP ERP Essential Training (2018)](https://www.linkedin.com/learning/sap-erp-essential-training-2018/understanding-sap-erp?u=2095204)
+- [SAP S/4 HANA Financial Accounting Overview](https://www.linkedin.com/learning/sap-s-4-hana-financial-accounting-overview/scenarios-covered-2?u=2095204)
 
 ## Content 
 - Pre-Requesites:
