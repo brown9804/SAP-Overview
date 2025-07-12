@@ -1,10 +1,6 @@
 <h1 align="center"> SAP - Systems Applications and Products in data processing </h1>
 
-----------
-
 Costa Rica
-
-Belinda Brown, belindabrownr04@gmail.com
 
 April, 2021
 
@@ -46,8 +42,6 @@ From [20]
 - `TNC` - Transport Naming Convention 
 - `TSP` - Test System Protection 
 - `CMP` - Change Management Process 
-
-
 
 
 <h2 align="center"> Implementation Basic Steps  </h2>
@@ -275,9 +269,6 @@ From PWC | India
 ![HANA SDI Architecture ](https://datacadamia.com/_media/db/hana/hana_sdi_architecture.png?cache=)
 
 
-
-
-
 ## References 
 [1] What is an SAP Implementation - From https://symmetrycorp.com/blog/expert-insight-sap-implementation-2/ <br/>
 [2] System Landscape & Architecture - From https://www.tutorialspoint.com/sap_basis/sap_basis_system_landscape_architecture.htm#:~:text=SAP%20system%20landscape%20is%20defined%20as%20an%20arrangement%20of%20SAP%20servers.&text=A%20system%20landscape%20consists%20of,time%20unlike%20the%20system%20landscape. <br/>
@@ -300,3 +291,10 @@ From PWC | India
 [19] SAP Application Management Security - From https://symmetrycorp.com/blog/sap-security-basics-what-you-need-to-know/ <br/>
 [20] Useful SAP commands - From https://www.system-overload.org/sap/transaction-codes-list.pdf <br/>
 [21] Tables List - From https://www.system-overload.org/sap/tables-list.pdf <br/>
+
+<!-- START BADGE -->
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20views-1022-limegreen" alt="Total views">
+  <p>Refresh Date: 2025-07-11</p>
+</div>
+<!-- END BADGE -->
